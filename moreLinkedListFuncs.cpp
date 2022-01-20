@@ -18,11 +18,9 @@ void addIntToEndOfList(LinkedList *list, int value) {
   
   // (3) Set p's next field to NULL
 
-
   if (list->head == NULL) {
 
-    // (4) Make both head and tail of this list point to p
-    
+    // (4) Make both head and tail of this list point to p    
     
   } else {
 
